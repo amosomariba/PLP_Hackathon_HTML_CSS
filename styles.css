@@ -169,7 +169,7 @@ section.services {
 
 .card img {
   width: 50px;
-  
+
   background: white;
 
 }
@@ -178,7 +178,7 @@ section.services .card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 2rem;
-  
+
 
 }
 
@@ -565,5 +565,27 @@ section.services .card-grid .card:hover p {
   .contact .content .right-side {
     width: 100%;
     margin-left: 0;
+  }
+}
+
+/* Default styles for larger screens (desktops, laptops) */
+body {
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* Styles for tablets (width up to 1024px) */
+@media (max-width: 1024px) {
+  body {
+    font-size: 16px;
+    padding: 15px;
+  }
+}
+
+/* Styles for mobile phones (width up to 768px) */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
   }
 }
