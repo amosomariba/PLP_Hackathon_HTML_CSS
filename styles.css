@@ -37,7 +37,15 @@ header nav {
 }
 
 header nav .logo {
-  margin-right: 3rem;
+  margin-right: 1rem;
+  font-size: 1rem;
+  font-weight: 200;
+  color: var(--white);
+  text-decoration: solid;
+  text-transform: uppercase;
+  transition: all 0.2s ease;
+  text-align: left;
+
 }
 
 body {
