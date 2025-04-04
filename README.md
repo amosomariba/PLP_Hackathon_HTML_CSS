@@ -1,11 +1,11 @@
 ```markdown
-# PLP Hackathon Project – Web Development Portfolio
+PLP Hackathon Project – Web Development Portfolio
 
-## Overview
+Overview
 
 This project was created as part of a hackathon organized by **PLP Academy**. It highlights my skills in web development, focusing on building responsive, user-friendly web applications using **HTML** and **CSS**.
 
-## About Me
+About Me
 
 I'm a motivated web developer with a solid year of practical experience building modern, responsive web applications. With a focus on **HTML** and **CSS**, I’ve built a strong foundation in front-end development.
 
@@ -13,21 +13,21 @@ My tech journey is driven by curiosity and a love for solving problems, and I've
 
 I'm currently broadening my knowledge in cutting-edge web development practices, always aiming to write clean, maintainable code and keep pace with evolving web technologies.
 
-## Features
+Features
 
 - Fully responsive design
 - Clean and modern UI
 - Built using HTML5 and CSS3
 - Focused on user-friendly design and seamless user experience
 
-## Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
 
-## Getting Started
+Getting Started
 
 To run this project locally:
 
@@ -41,7 +41,7 @@ To run this project locally:
    ```
 3. Open the `index.html` file in your browser to view the project.
 
-## Contact
+Contact
 
 If you have any questions about this project or would like to collaborate, feel free to reach out. I'm always happy to connect and help!
 
